@@ -24,7 +24,7 @@ I will reconsider my position if:
 1. These laws are repealed or struck down by the courts.
 2. A meaningful exemption is established for open-source and privacy-respecting software.
 
-It would also help if the legislators responsible for these bills demonstrated a basic understanding of the technology they are legislating — the kind of understanding that most people their age apparently rely on their grandchildren to explain when trying to connect a new iPhone to WiFi.
+It would also help if the legislators responsible for these bills demonstrated a basic understanding of the technology they are legislating — the kind of understanding that most people their age apparently rely on their grandchildren to explain when trying to connect a new personal electronic device to WiFi.
 
 Until then, my code will not be publicly available on this platform.
 
